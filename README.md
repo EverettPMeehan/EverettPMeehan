@@ -1,6 +1,7 @@
 ## Hi, I'm Everett 👋
 
 Data Science and Math major at Northeastern University, Boston, MA
+
 From the greater Philadelphia area
 
 ## 🔭 Current Projects
