@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Everett 👋
 
-<!--
-**EverettPMeehan/EverettPMeehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science and Math major at Northeastern University, Boston, MA
+From the greater Philadelphia area
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- **Augment vs Replace**: Examining Responsible AI in creative writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- **Languages**: Python, SQL
+- **Data Science**: NumPy, pandas, matplotlib, Plotly, scikit-learn
+- **Web Development**: Flask, Docker, MySQL
+
+## 🌱 Interests
+- AI ethics & regulation
+- sports analytics
+- creative applications of ML
+
+## 📫 Connect
+[www.linkedin.com/in/everett-meehan-6121b1310] • [everettpmeehan@gmail.com]
