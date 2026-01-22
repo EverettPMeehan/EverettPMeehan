@@ -4,7 +4,7 @@ Data Science and Math major at Northeastern University, Boston, MA
 
 From the greater Philadelphia area
 
-## 🔭 Current Projects
+## 🔭 Latest Project
 - **Augment vs Replace**: Examining Responsible AI in creative writing
 
 ## 💻 Technical Skills
