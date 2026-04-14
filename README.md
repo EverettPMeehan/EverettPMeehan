@@ -4,8 +4,8 @@ Data Science and Math major at Northeastern University, Boston, MA
 
 From the greater Philadelphia area
 
-## 🔭 Latest Project
-- **Augment vs Replace**: Examining Responsible AI in creative writing
+## 🔭 Current Project
+- **Uncertainty Quantification for Astronomical Classification**: Training a model to classify astronomical objects using SDSS data, to evaluate what the model doesn't know
 
 ## 💻 Technical Skills
 - **Languages**: Python, SQL
